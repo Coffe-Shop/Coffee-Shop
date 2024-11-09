@@ -10,8 +10,10 @@ Laporan Praktikum Proyek Akhir Mata Kuliah Dasar-Dasar Pemrograman
 ![Flowchart Kelompok Coffe Shop-Halaman-1 (1)](https://github.com/user-attachments/assets/c29f6c51-db97-49fd-9866-0b4c2089d401)
 
 # ⤷ Penjelasan Output 
-## Tampilan Menu Utama Program
+
+## A. Tampilan Menu Utama Program
 ![Screenshot 2024-11-09 081916](https://github.com/user-attachments/assets/ac5a7ed2-034e-4529-84ee-642ff8d8765e)
+
 ### 1. Menu Registrasi
 ![Screenshot 2024-11-09 082309](https://github.com/user-attachments/assets/2d6719df-fac4-4a18-b93f-259926e9993d)
 ![Screenshot 2024-11-09 083913](https://github.com/user-attachments/assets/96730ad8-f4c0-4b24-9852-933e1693425c)
@@ -27,7 +29,7 @@ Laporan Praktikum Proyek Akhir Mata Kuliah Dasar-Dasar Pemrograman
 
 (beri penjelasan disini)
 
-## Tampilan Menu Kasir
+## B. Tampilan Menu Kasir
 ![Screenshot 2024-11-09 082923](https://github.com/user-attachments/assets/4e0cf65a-0d42-4e39-a10a-18ee028b9dc8)
 ### 1. Fitur Lihat Menu
 ![Screenshot 2024-11-09 083035](https://github.com/user-attachments/assets/c6eda575-c416-4978-9bee-2835a92ae192)
@@ -46,24 +48,36 @@ Laporan Praktikum Proyek Akhir Mata Kuliah Dasar-Dasar Pemrograman
 
 (beri penjelasan disini)
 ### 5. Halaman Utama
-![Screenshot 2024-11-09 081203](https://github.com/user-attachments/assets/f975a56b-ac41-4f37-810d-c6ca65cccbf6)
+![Screenshot 2024-11-09 081916](https://github.com/user-attachments/assets/11766f84-f2f2-44b9-a8a4-e90ecc5f65db)
 
 (beri penjelasan disini)
 ### 6. Keluar
 ![Screenshot 2024-11-09 083654](https://github.com/user-attachments/assets/7c46453a-1eb1-44f1-902f-689b1cb11877)
 
 (beri penjelasan disini)
-   
 
+# C. Tampilan Menu Customer
+![Screenshot 2024-11-09 084002](https://github.com/user-attachments/assets/31d50bf8-4e75-4fea-9dd5-a9ef07a6bd78)
 
-3. Menu Tampilan Sebagai Pengguna(Customer)
-   
-   A. Pesan Menu
-   
-   B. Cek Saldo
-   
-   C. Top Up Saldo
-   
-   D. Halaman Utama
-   
-   E. Keluar
+### 1. Fitur Pesan Menu
+![Screenshot 2024-11-09 084659](https://github.com/user-attachments/assets/0679d8f8-035e-4281-a6d2-c246800d7122)
+![Screenshot 2024-11-09 084725](https://github.com/user-attachments/assets/4dec0d31-c588-4e03-88aa-a51c0724b187)
+
+(beri penjelasan disini)
+### 2. Fitur Cek Saldo
+![Screenshot 2024-11-09 084433](https://github.com/user-attachments/assets/5196337a-dee4-4275-8429-1c0f425a2cf9)
+
+(beri penjelasan disini)
+### 3. Fitur Top Up Saldo
+![Screenshot 2024-11-09 084529](https://github.com/user-attachments/assets/9fdb0030-8e88-4d10-b8b3-f1c66ac2fde7)
+
+(beri penjelasan disini)
+### 4. Halaman Utama
+![Screenshot 2024-11-09 081916](https://github.com/user-attachments/assets/ff1e21aa-6b88-4489-ba97-c8f7de8978de)
+
+(beri penjelasan disini)
+### 5. Keluar
+![Screenshot 2024-11-09 084755](https://github.com/user-attachments/assets/57ab66c2-7cbb-462f-8fbe-8c9e62a223e2)
+
+(beri penjelasan disini)
+
