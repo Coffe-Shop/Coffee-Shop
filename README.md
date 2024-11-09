@@ -7,7 +7,46 @@ Laporan Praktikum Proyek Akhir Mata Kuliah Dasar-Dasar Pemrograman
 3. Sayid Rafi A'thaya (2409116036)
 
 # ⤷ Flowchart
-![Flowchart Kelompok Coffe Shop-Halaman-1 (1)](https://github.com/user-attachments/assets/c29f6c51-db97-49fd-9866-0b4c2089d401)
+![all drawio](https://github.com/user-attachments/assets/f253170f-ae5b-45ff-bde0-1bd6920cb567)
+<details>
+  <summary>Login</summary>
+  
+  ![login drawio](https://github.com/user-attachments/assets/64c8a17d-de1a-41cb-b93d-e74902542e8d)
+
+</details>
+
+# -Kasir-
+
+<details>
+  <summary>Lihat Menu</summary>
+  
+  ![lihat menu drawio](https://github.com/user-attachments/assets/a21e53a1-1138-4010-8320-08b13494c442)
+
+</details>
+<details>
+  <summary>Tambah Menu</summary>
+  
+  ![tambah menu drawio](https://github.com/user-attachments/assets/f4c53042-f2aa-4194-ae72-fc208044b3bd)
+
+</details>
+<details>
+  <summary>Hapus Menu</summary>
+  
+  ![hapus menu drawio](https://github.com/user-attachments/assets/4d26fd44-8a35-4438-9692-d3c6bd50933d)
+
+</details>
+<details>
+  <summary>Perbarui Menu</summary>
+  
+  ![perbarui menu drawio](https://github.com/user-attachments/assets/a9ec333a-58a6-4e3b-9193-73bbc51ba7fa)
+
+</details>
+<details>
+  <summary>Hapus Menu</summary>
+  
+  
+</details>
+
 
 # ⤷ Penjelasan Output 
 
