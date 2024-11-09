@@ -59,8 +59,13 @@ Berisi mengenai Laporan Praktikum Project Akhir mata kuliah Dasar-dasar Pemrogra
    F. Keluar
 
 3. Menu Tampilan Sebagai Pengguna(Customer)
+   
    A. Pesan Menu
+   
    B. Cek Saldo
+   
    C. Top Up Saldo
+   
    D. Halaman Utama
+   
    E. Keluar
