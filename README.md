@@ -41,12 +41,26 @@ Laporan Praktikum Proyek Akhir Mata Kuliah Dasar-Dasar Pemrograman
   ![perbarui menu drawio](https://github.com/user-attachments/assets/a9ec333a-58a6-4e3b-9193-73bbc51ba7fa)
 
 </details>
-<details>
-  <summary>Hapus Menu</summary>
-  
-  
-</details>
 
+# -Customer-
+<details>
+  <summary>Pesan Menu</summary>
+  
+  ![pesan menu drawio](https://github.com/user-attachments/assets/b922d800-132c-4127-8f36-03004b8f8966)
+
+</details>
+<details>
+  <summary>Cek Saldo</summary>
+  
+  ![cek saldo drawio](https://github.com/user-attachments/assets/98b6d225-c48a-4ef7-b709-db75c455188d)
+
+</details>
+<details>
+  <summary>Top Up Saldo</summary>
+  
+  ![top up drawio](https://github.com/user-attachments/assets/10e95e72-52f2-43c3-a989-35209769badc)
+
+</details>
 
 # ⤷ Penjelasan Output 
 
