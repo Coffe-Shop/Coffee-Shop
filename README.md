@@ -1,7 +1,7 @@
 # `˗ˏˋ☕ˎˊ˗ k o f i s y o p ˗ˏˋ☕ˎˊ˗
 Laporan Praktikum Proyek Akhir Mata Kuliah Dasar-Dasar Pemrograman
 
-### Kelompok 2 | Sistem Informasi A
+### Kelompok 2 | Sistem Informasi A | Tema: Coffee-Shop
 1. Adella Putri (2409116006)
 2. Dilla Maharani (2409116023)
 3. Sayid Rafi A'thaya (2409116036)
