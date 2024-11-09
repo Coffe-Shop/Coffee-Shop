@@ -125,27 +125,58 @@ Dan jika pengguna memilih fitur keluar :
 Maka pengguna akan secara otomatis keluar dari sistem.
 
 # C. Tampilan Menu Customer
+
+Jika pengguna telah selesai melakukan Login pada sistem, dan pengguna memilih Role Customer, 
+
+berikut merupakan Menu Tampilan fitur-fitur apa saja yang dapat di lakukan customer di dalam sistem.
+
 ![Screenshot 2024-11-09 084002](https://github.com/user-attachments/assets/31d50bf8-4e75-4fea-9dd5-a9ef07a6bd78)
 
+terdapat 5 Menu pilihan utama yang dapat dipilih, dengan hanya tinggal memasukkan nomor yang tertera pada tabel Menu kasir, 
+maka pengguna akan secara otomatis tertampil menu-menu pilihan fitur yang mereka inginkan.
+
 ### 1. Fitur Pesan Menu
+
+Jika Customer memilih nomor 1
+
 ![Screenshot 2024-11-09 084659](https://github.com/user-attachments/assets/0679d8f8-035e-4281-a6d2-c246800d7122)
+
+Pengguna sebagai Customer akan memilih nomor menu dan kuantitas atau jumlah pesanan nya, setelah itu pemesanan nya akan di proses.
+
 ![Screenshot 2024-11-09 084725](https://github.com/user-attachments/assets/4dec0d31-c588-4e03-88aa-a51c0724b187)
 
-(beri penjelasan disini)
+Dan, jika penggguna telah selesai dan berhasil mendapatkan struk belanja, maka setelah itu perubahannya akan ada pada sistem didalam file penyimpanan CSV.
+
 ### 2. Fitur Cek Saldo
 ![Screenshot 2024-11-09 084433](https://github.com/user-attachments/assets/5196337a-dee4-4275-8429-1c0f425a2cf9)
 
-(beri penjelasan disini)
+Jika Customer memilih nomor 2,
+
+Pengguna sebagai Customer akan mengecek saldo penggunanya.
+
 ### 3. Fitur Top Up Saldo
+
+Jika Customer memilih nomor 3,
+
+berikut merupakan Menu Tampilan dari top up saldo dengan nominal apa saja yang dapat di lakukan customer di dalam sistem, dan juga tersedia pilihan untuk kembali.
+
 ![Screenshot 2024-11-09 084529](https://github.com/user-attachments/assets/9fdb0030-8e88-4d10-b8b3-f1c66ac2fde7)
 
-(beri penjelasan disini)
+terdapat 6 Menu pilihan utama yang dapat dipilih, dengan hanya tinggal memasukkan nomor yang tertera pada tabel top up saldo, 
+maka pengguna akan secara otomatis tertampil menu-menu pilihan fitur yang mereka inginkan.
+
+Dan, jika penggguna telah selesai dan berhasil top up, maka setelah itu perubahan pada isi saldo nya akan ada pada sistem didalam file penyimpanan CSV.
+
 ### 4. Halaman Utama
 ![Screenshot 2024-11-09 081916](https://github.com/user-attachments/assets/ff1e21aa-6b88-4489-ba97-c8f7de8978de)
 
-(beri penjelasan disini)
+Jika Customer memilih nomor 4, 
+
+maka otomatis akan kembali ke menu utama.
+
 ### 5. Keluar
 ![Screenshot 2024-11-09 084755](https://github.com/user-attachments/assets/57ab66c2-7cbb-462f-8fbe-8c9e62a223e2)
 
-(beri penjelasan disini)
+Jika Customer memilih nomor 5, 
 
+Maka pengguna akan secara otomatis keluar dari sistem.
