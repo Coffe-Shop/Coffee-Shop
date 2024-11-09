@@ -27,19 +27,34 @@ Laporan Praktikum Proyek Akhir Mata Kuliah Dasar-Dasar Pemrograman
 
 (beri penjelasan disini)
 
-2. Menu Tampilan Sebagai Admin(Kasir)
+## Tampilan Menu Kasir
+![Screenshot 2024-11-09 082923](https://github.com/user-attachments/assets/4e0cf65a-0d42-4e39-a10a-18ee028b9dc8)
+### 1. Fitur Lihat Menu
+![Screenshot 2024-11-09 083035](https://github.com/user-attachments/assets/c6eda575-c416-4978-9bee-2835a92ae192)
+
+(beri penjelasan disini)
+### 2. Fitur Tambah Menu
+![Screenshot 2024-11-09 083128](https://github.com/user-attachments/assets/540b6a4c-ddb9-43f6-adcb-08505708d3f7)
+
+(beri penjelasan disini)
+### 3. Fitur Hapus Menu
+![Screenshot 2024-11-09 083304](https://github.com/user-attachments/assets/1dd1c73a-dc47-48da-8ad9-b2587b32ba4b)
+
+(beri penjelasan disini)
+### 4. Fitur Perbarui Menu
+![Screenshot 2024-11-09 083528](https://github.com/user-attachments/assets/347e4922-98ac-4516-9d63-50002d39a3f8)
+
+(beri penjelasan disini)
+### 5. Halaman Utama
+![Screenshot 2024-11-09 081203](https://github.com/user-attachments/assets/f975a56b-ac41-4f37-810d-c6ca65cccbf6)
+
+(beri penjelasan disini)
+### 6. Keluar
+![Screenshot 2024-11-09 083654](https://github.com/user-attachments/assets/7c46453a-1eb1-44f1-902f-689b1cb11877)
+
+(beri penjelasan disini)
    
-   A. Lihat Menu
-   
-   B. Tambah Menu
-   
-   C. Hapus Menu
-   
-   D. Perbarui Menu
-   
-   E. Halaman Utama
-   
-   F. Keluar
+
 
 3. Menu Tampilan Sebagai Pengguna(Customer)
    
